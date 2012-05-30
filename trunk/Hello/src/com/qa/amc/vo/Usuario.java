@@ -14,9 +14,6 @@ public class Usuario {
 	private Date FechaAlta;
 	
 
-	
-
-	
 	private String nombre;
 	public String getNombre() {
 		return nombre;
